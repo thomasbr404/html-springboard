@@ -1,2 +1,3 @@
-# html-springboard
-Intended as a really simple starting point for any HTML document.
+# HTML Springboard
+
+A good starting point for any document.
