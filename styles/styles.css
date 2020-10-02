@@ -1,0 +1,16 @@
+/*
+ * HTML Springboard: CSS
+ * A good starting point for a webpage but this is the styling.
+*/
+
+body {
+  background-color: lightsteelblue;
+}
+
+body .header {
+  color: red;
+}
+
+body .main {
+  font-family: Courier New, monospace;
+}
